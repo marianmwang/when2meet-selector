@@ -5,6 +5,6 @@ Using this extension, you can easily:
 - Filter individual user's schedules
 - Filter combinations of user's schedules
 ###
-Download the extension on the [Google Chrome extensions webstore](https://chrome.google.com/webstore/detail/when2meet-selector/emkhnmginkjnbmbeiikeocooendbobhe) and click the extension icon on any when2meet.com schedule to use. Feel free to use this [dummy when2meet schedule](https://www.when2meet.com/?13987880-Uj9Xj) to test the extension.
+Download the extension on the [Google Chrome extensions webstore]() and click the extension icon on any when2meet.com schedule to use. Feel free to use this [dummy when2meet schedule](https://www.when2meet.com/?13987880-Uj9Xj) to test the extension.
 ###
 By Marian Wang
