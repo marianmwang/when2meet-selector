@@ -20,6 +20,5 @@
       "resources": ["menu.js"],
       "matches": ["https://www.when2meet.com/*"]
     }
-  ],
-  "permissions": ["activeTab"]
+  ]
 }
